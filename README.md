@@ -6,6 +6,7 @@ Faculty of Mathematics, Statistics and Computer Science
 
 Instructor: Dr. Ramin Kazemi | Project Supervisor: Parsa Setayesh
 
+Author: Matin Mohammadi
 ---
 
 ## Overview
